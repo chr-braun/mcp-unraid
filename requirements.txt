@@ -1,0 +1,2 @@
+fastmcp>=3.2
+docker>=7.0
